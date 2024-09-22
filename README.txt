@@ -1,4 +1,4 @@
-BATCH FILE CODE 
+THIS IS A VIRUS BATCH FILE CODE 
 @echo off
 
 :loop
